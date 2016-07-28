@@ -1,8 +1,14 @@
-# flask
+flask
+=====
 docker-flask
 
 Run command
-===========
+-----------
 ```
-xxx
+docker-compose up -d
+docker-compose start
+docker-compose down
+docker-compose stop
 ```
+
+
